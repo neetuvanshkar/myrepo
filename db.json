@@ -1,0 +1,179 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": 2,
+      "name": "manju",
+      "email": "rahul444@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": 3,
+      "name": "sanju",
+      "email": "rahul888@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "name": "sudhir",
+      "email": "sudhir@gmail.com",
+      "password": "sudheer123",
+      "id": 4
+    },
+    {
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "password": "manoj123",
+      "id": 5
+    },
+    {
+      "name": "pankaj",
+      "email": "pankja@gmail.com",
+      "password": "pankaj123",
+      "id": 6
+    },
+    {
+      "name": "om",
+      "email": "om@gmail.com",
+      "password": "om123",
+      "id": 7
+    },
+    {
+      "name": "sanju",
+      "email": "sanju@gmail.com",
+      "password": "sanju123",
+      "id": 8
+    },
+    {
+      "name": "manju",
+      "email": "manju@gmail.com",
+      "password": "manju123",
+      "id": 9
+    },
+    {
+      "name": "mohan",
+      "email": "mohan@gmail.com",
+      "password": "mohan123",
+      "id": 10
+    },
+    {
+      "name": "kasim",
+      "email": "kasim@gmail.com",
+      "password": "kasim123",
+      "id": 11
+    },
+    {
+      "name": "Asra ",
+      "email": "asra@gmail.com",
+      "password": "asra123",
+      "id": 12
+    },
+    {
+      "name": "jiya",
+      "email": "jiya@gmail.com",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "name": "jiya",
+      "email": "jiya@gmail.com",
+      "password": "123",
+      "id": 14
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail",
+      "password": "123",
+      "id": 15
+    },
+    {
+      "name": "tina",
+      "email": "tina@gmail.com",
+      "password": "123",
+      "id": 16
+    },
+    {
+      "id": 17
+    }
+  ],
+  "stucomplain": [
+    {
+      "id": 1,
+      "stuid": 11,
+      "complain": "internet not worrking",
+      "ans": "this is just test reply answer"
+    },
+    {
+      "stuid": 5,
+      "complain": "oddi wifi not properly wroking plaese do something",
+      "ans": "oddi is not wrokibg sdfdgdfgdfg",
+      "id": 2
+    },
+    {
+      "stuid": 6,
+      "complain": "there is cooler problem there is so hot today",
+      "ans": " eewr ewqr tewqr eqrt err tret ertert",
+      "id": 3
+    },
+    {
+      "stuid": 5,
+      "complain": "sdfsdfsdfsd sdfsdf sd",
+      "ans": "ham kisi ki nhi sunte",
+      "id": 4
+    },
+    {
+      "stuid": 5,
+      "complain": "hello sir in my class subham was sleeping.",
+      "ans": " subham ko class se bahar kar sabhi ",
+      "id": 5
+    },
+    {
+      "stuid": 12,
+      "complain": "yaha ke student bahut setan hai bat nahi sunte\nkam bhi pura nahi karte",
+      "ans": "student ko samay samay per punish kare\nand call there parents",
+      "id": 6
+    },
+    {
+      "stuid": 12,
+      "complain": "ther is no internet in my classroom\nand also tv is not working",
+      "ans": "  we plan to change internet provider we change airtel to relince so wait some days",
+      "id": 7
+    },
+    {
+      "stuid": 13,
+      "complain": "fffffffffffffffffffffffffff",
+      "ans": "",
+      "id": 8
+    },
+    {
+      "stuid": 15,
+      "complain": "hiiiiiiiiiiiiiiiiiiiiiiiii",
+      "ans": "",
+      "id": 9
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "rajesh",
+      "email": "raj@gmail.com",
+      "password": "raj123"
+    },
+    {
+      "id": 3,
+      "name": "sudhir",
+      "email": "sudhir@gmail.com",
+      "password": "sudhir123"
+    }
+  ]
+}
